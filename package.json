@@ -3,15 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    
-        "test": "jest"
-},
+    "test": "jtest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
     "jest": "^30.0.5"
+  },
+  "dependencies": {
+    "jtest": "^0.0.1"
   }
-
 }
